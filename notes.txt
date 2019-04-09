@@ -1,0 +1,30 @@
+//Data types:
+
+7 different:
+
+undefined
+null
+boolean
+string
+symbol
+number
+object
+
+//Variables:
+
+Variables allow computers to store and manipulate data in a dynamic fashion. 
+They do this by  using a "label" to point to the data rather than using the data itself. 
+Any of the seven data types may be stored in a variable.
+
+variable create or declare syntax:
+
+var ourName;        //creates a variable called ourName
+
+
+Note: Assignment always goes from right to left.
+
+
+camelCase named variables are good practice.
+
+Escaping Literal Quotes in Strings ==> use backslashes before the quotes ou don't want the sentence to end with.
+

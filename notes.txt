@@ -90,3 +90,17 @@ having run a few sim tests i figure most of my error have been syntactical so fa
 //QUeue
 queue is an abstract Data Structure where items are kept in order
 New items can be added at the back of the queue and old items are taken off from the front of the queue
+
+
+//oolean
+
+2 types: true false
+
+Boolean values are never written with quotes. The strings "true" and "false" are not Boolean and have no special meaning in JavaScript.
+
+//equaltiy ==
+ineq !=
+//strict equality ===
+strict ineq !==
+
+

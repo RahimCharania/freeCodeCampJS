@@ -49,3 +49,12 @@ If you have tabular data, you can use an object to "lookup" values rather than a
 Objects hold data in a property, which has a key-value format. 
 "artist": "Daft Punk" --> is a property that has a key of "artist" and a value of "Daft Punk".
 
+
+
+flexible DS:js object--> handling flexible data
+They allow for arbitrary combinations of strings, numbers, booleans, arrays, functions, and objects.
+
+
+
+
+JSON--> related data interchange format used to store data
